@@ -1,5 +1,5 @@
 # Ducksweeper
-Recreation of the classic minesweeper game, but duck-themed.
+Recreation of the classic minesweeper game using C++ and the SFML library.
 
 # How to run the game
 1. Download `Ducksweeper.zip`
